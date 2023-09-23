@@ -47,7 +47,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h2 id="general">General Information</h2>
+<h2 id="general">Información General</h2>
 
 <!--
   INTRODUCTION
@@ -108,7 +108,7 @@ site.swc_site }}/conduct/">Código de Conducta</a> de Carpentries.
   can use http://itouchmap.com/latlong.html to find the lat/long of an
   address.
   -->
-<h3 id="where">Where</h3>
+<h3 id="where">Dónde</h3>
 
 
 {% if online == "false" %}
