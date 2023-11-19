@@ -7,12 +7,12 @@ country: "FIXME"      # "W3" for centrally organized online trainings or lowerca
 language: "spa"     
 latitude: "45"        # decimal latitude of training venue (use https://www.latlong.net/)
 longitude: "-1"       # decimal longitude of the training venue (use https://www.latlong.net)
-humandate: "Nov 11-Dec 8, 2023"
-humantime: "FIXME"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: FIXME      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: FIXME        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+humandate: "Nov 29-Dec 8, 2023"
+humantime: "8:00 am PT"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2023-11-29      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2023-12-8        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Verónica Jiménez Jacinto", "Heladia Salgado", "Paula Pappalardo", "Macarena Quiroga"] 
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Verónica Jiménez Jacinto", "Heladia Salgado", "Paula Pappalardo", "Macarena Quiroga"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["macarenasolquiroga@gmail.com"]
 etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -88,7 +88,7 @@ Para obtener más información, consulte nuestro <a href="{{ site.training_site 
 <h3>Código de Conducta</h3>
 
 Todos los participantes deben atenerse al <a href="{{
-site.swc_site }}/conduct/">Código de Conducta</a> de Carpentries.
+site.swc_site }}/conduct/">Código de Conducta</a> de Carpentries. (en español: https://docs.google.com/document/d/1GhlytdlWWlW85YpzYtBn9SXhqRgjyB7LDXbfpYedOS4/edit?usp=sharing)
 
 
 
